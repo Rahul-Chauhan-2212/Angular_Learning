@@ -16,3 +16,7 @@ To Check Angular CLI version
 
 <h4>Run Angular App</h4>
 <h6>ng serve</h6>
+
+<h4>Installing Bootstrap locally to project</h4>
+<h6>npm install --save bootstrap@3</h6>
+<h6>import the bootstrap.min.css in angular.json file</h6>
