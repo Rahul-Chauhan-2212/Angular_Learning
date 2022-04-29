@@ -10,3 +10,9 @@ Used to create angular project and Install and manage dependencies regarding the
 Note:@latest is optional</br>
 To Check Angular CLI version
 <h6>ng --version</h6>
+
+<h4>Create First Angular App</h4>
+<h6>ng new my-first-app</h6>
+
+<h4>Run Angular App</h4>
+<h6>ng serve</h6>
