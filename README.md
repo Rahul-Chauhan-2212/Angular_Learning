@@ -66,4 +66,8 @@ Bind TS data to HTML and vice-versa
 ## Project for Angular Basics
 
 <h4>basics-app</h4>
-<h6>ng new basics-app --no-strict</h6>
+<h6>
+<ul>
+<li>ng new basics-app --no-strict</li>
+<li>npm install --save bootstrap@3</li>
+<ul></h6>
