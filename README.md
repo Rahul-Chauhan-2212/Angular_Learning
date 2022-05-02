@@ -32,6 +32,9 @@ To Check Angular CLI version
 
 <li>
 <h4>Create Angular Component and Using it<h4>
+<h6>ng generate component componentname</h6>
+                  OR
+<h6>ng g c componentname</h6>
 </li>
 
 </ul>
