@@ -37,4 +37,15 @@ To Check Angular CLI version
 <h6>ng g c componentname</h6>
 </li>
 
+<li>
+<h4>Data Binding</h4>
+Bind TS data to HTML and vice-versa
+<ol>
+<li>String Interpolation==>{{data}}</li>
+<li>Property Binding==>[property]="data"</li>
+<li>Event Binding==>(event)="expression"</li>
+<li>Two way Data Binding==>[(ngModel)]="data"</li>
+</ol>
+</li>
+
 </ul>
