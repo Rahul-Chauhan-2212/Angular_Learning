@@ -48,4 +48,17 @@ Bind TS data to HTML and vice-versa
 </ol>
 </li>
 
+<li>Directives-->Instructions in DOM
+<h6>Structural Directives</h6>
+<ol>
+<li>ngIf</li>
+<li>ngIf with else</li>
+</ol>
+<h6>Attribute Directives</h6>
+<ol>
+<li>ngStyle</li>
+<li>ngClass</li>
+</ol>
+</li>
+
 </ul>
