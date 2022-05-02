@@ -70,4 +70,5 @@ Bind TS data to HTML and vice-versa
 <ul>
 <li>ng new basics-app --no-strict</li>
 <li>npm install --save bootstrap@3</li>
+<li>ng g c recepies</li>
 <ul></h6>
