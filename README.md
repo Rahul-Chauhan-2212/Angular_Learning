@@ -62,11 +62,11 @@ Note: Work on HTML properties and events with custom properties and events(direc
 </ol>
 </li>
 
-</li>
+<li>
 <h4>Binding To Custom Properties</h4>
 <h6>Alias To Custom Properties</h6>
 </li>
-</li>
+<li>
 <h4>Binding To Custom Events</h4>
 <h6>Alias To Custom Events</h6>
 </li>
