@@ -45,6 +45,7 @@ Bind TS data to HTML and vice-versa
 <li>Property Binding==>[property]="data"</li>
 <li>Event Binding==>(event)="expression"</li>
 <li>Two way Data Binding==>[(ngModel)]="data"</li>
+Note: Work on HTML properties and events with custom properties and events(directives)
 </ol>
 </li>
 
