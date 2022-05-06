@@ -71,6 +71,17 @@ Note: Work on HTML properties and events with custom properties and events(direc
 <h6>Alias To Custom Events</h6>
 </li>
 
+<li>
+<h4>View Encapsulation</h4>
+<h6>
+<ol>
+<li>Emulated(default)</li>
+<li>None</li>
+<li>Shadow</li>\
+</ol>
+</h6>
+</li>
+
 </ul>
 
 ## Project for Angular Basics
